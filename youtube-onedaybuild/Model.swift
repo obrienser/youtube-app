@@ -41,7 +41,7 @@ class Model {
                 
             }
             catch {
-                
+                print("error ocurred")
             }
             
         }
