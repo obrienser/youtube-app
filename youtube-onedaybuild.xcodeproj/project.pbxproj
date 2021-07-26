@@ -75,8 +75,8 @@
 				3445F6A726A7FB8A00765994 /* Model.swift */,
 				3445F6A926A8082700765994 /* Response.swift */,
 				3445F69526A6EB0D00765994 /* Main.storyboard */,
-				3445F69826A6EB0F00765994 /* Assets.xcassets */,
 				3445F69A26A6EB0F00765994 /* LaunchScreen.storyboard */,
+				3445F69826A6EB0F00765994 /* Assets.xcassets */,
 				3445F69D26A6EB0F00765994 /* Info.plist */,
 			);
 			path = "youtube-onedaybuild";
