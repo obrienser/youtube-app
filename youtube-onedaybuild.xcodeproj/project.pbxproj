@@ -17,6 +17,7 @@
 		3445F6A626A7FB0600765994 /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3445F6A526A7FB0600765994 /* Video.swift */; };
 		3445F6A826A7FB8A00765994 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3445F6A726A7FB8A00765994 /* Model.swift */; };
 		3445F6AA26A8082700765994 /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3445F6A926A8082700765994 /* Response.swift */; };
+		3445F6AC26AE9E5C00765994 /* ConstantsTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3445F6AB26AE9E5C00765994 /* ConstantsTemplate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		3445F6A526A7FB0600765994 /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
 		3445F6A726A7FB8A00765994 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 		3445F6A926A8082700765994 /* Response.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Response.swift; sourceTree = "<group>"; };
+		3445F6AB26AE9E5C00765994 /* ConstantsTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstantsTemplate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				3445F69126A6EB0D00765994 /* SceneDelegate.swift */,
 				3445F69326A6EB0D00765994 /* ViewController.swift */,
 				3445F6A326A7F67400765994 /* Constants.swift */,
+				3445F6AB26AE9E5C00765994 /* ConstantsTemplate.swift */,
 				3445F6A526A7FB0600765994 /* Video.swift */,
 				3445F6A726A7FB8A00765994 /* Model.swift */,
 				3445F6A926A8082700765994 /* Response.swift */,
@@ -153,6 +156,7 @@
 				3445F69426A6EB0D00765994 /* ViewController.swift in Sources */,
 				3445F69026A6EB0D00765994 /* AppDelegate.swift in Sources */,
 				3445F69226A6EB0D00765994 /* SceneDelegate.swift in Sources */,
+				3445F6AC26AE9E5C00765994 /* ConstantsTemplate.swift in Sources */,
 				3445F6A826A7FB8A00765994 /* Model.swift in Sources */,
 				3445F6A426A7F67400765994 /* Constants.swift in Sources */,
 				3445F6A626A7FB0600765994 /* Video.swift in Sources */,
