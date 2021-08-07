@@ -1,2 +1,2 @@
 # YouTube APP
-Using YouTube API
+Используется YouTube API для получения видео из плейлиста в YouTube
